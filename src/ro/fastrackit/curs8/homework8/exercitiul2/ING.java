@@ -1,6 +1,4 @@
-package ro.fastrackit.curs8.Homework8.Exercitiul2;
-
-import ro.fastrackit.curs8.Homework8.Exercitiul2.Person;
+package ro.fastrackit.curs8.homework8.exercitiul2;
 
 public class ING implements Person {
     @Override

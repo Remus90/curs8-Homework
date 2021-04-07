@@ -1,4 +1,4 @@
-package ro.fastrackit.curs8.Homework8.Exercitiul2;
+package ro.fastrackit.curs8.homework8.exercitiul2;
 
 public class MainPerson {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ro.fastrackit.curs8.Homework8.Exercitiul3;
+package ro.fastrackit.curs8.homework8.exercitiul3;
 
 public class Duck implements Animal{
     @Override
